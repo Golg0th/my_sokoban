@@ -1,8 +1,8 @@
 /*
-** EPITECH PROJECT, 2022
-** game_loop
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
-** desc
+** game loops
 */
 
 #include "../includes/my.h"

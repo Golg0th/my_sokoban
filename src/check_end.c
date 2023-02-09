@@ -1,10 +1,9 @@
 /*
-** EPITECH PROJECT, 2023
-** win or loose
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
 ** win_or_loose
 */
-
 #include "../includes/my.h"
 
 int check_lose(char **map)

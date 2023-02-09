@@ -1,8 +1,8 @@
 /*
-** EPITECH PROJECT, 2022
-** box
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
-** deplace boxes
+** box handling
 */
 
 #include "../includes/my.h"

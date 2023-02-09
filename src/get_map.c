@@ -1,10 +1,9 @@
 /*
-** EPITECH PROJECT, 2022
-** get_map
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
 ** get_map
 */
-
 #include "../includes/my.h"
 
 static char *stwa_string(char *str, int *co, char const lim, char const *st)

@@ -1,8 +1,8 @@
 /*
-** EPITECH PROJECT, 2022
-** aa
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
-** aa
+** utils files
 */
 
 #include "../includes/my.h"

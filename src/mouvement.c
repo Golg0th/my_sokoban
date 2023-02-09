@@ -1,8 +1,8 @@
 /*
-** EPITECH PROJECT, 2022
-** mouvement
+** PERSONNAL PROJECT
+** my_sokoban
 ** File description:
-** mouvement
+** mouvement handling
 */
 
 #include "../includes/my.h"
